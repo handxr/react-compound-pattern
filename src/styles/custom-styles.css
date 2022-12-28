@@ -1,0 +1,22 @@
+.bg-dark {
+  background-color: rgb(56, 56, 56);
+}
+
+.text-white {
+  color: #fff;
+}
+
+.custom-buttons {
+  background-color: red;
+}
+
+.shopping-cart {
+  position: fixed;
+  right: 10px;
+  top: 0;
+}
+
+.disabled {
+  border-color: grey !important;
+  color: grey !important;
+}
